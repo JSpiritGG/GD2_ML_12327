@@ -10,7 +10,7 @@ with open(model_path, "rb") as f:
      
  # === 2) Judul Aplikasi ===
 st.title("рџЊё Prediksi Bunga Iris вЂ” Random Forest Classifier")
-st.title("Maria вЂ” 220711969") # isikan dengan nama dan NPM praktikan
+st.title("Michael Ardiyanto ” 230712327") # isikan dengan nama dan NPM praktikan
  
 st.write("""Masukkan panjang dan lebar petal (kelopak bunga) untuk memprediksi jenis bunga:- **0 = Setosa**- **1 = Versicolor**- **2 = Virginica**
  """)
